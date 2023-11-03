@@ -12,5 +12,6 @@ All the code can be found at [https://github.com/MaRTiny-SHaDELab](https://githu
 
 ## System Diagram
 
-![MaRTinyArch](https://github.com/SHaDE-Lab/MaRTiny/assets/34399297/02648afe-1179-4989-9722-450a5aa19c06)
+![MaRTinyArch](https://github.com/SHaDE-Lab/MaRTiny/assets/34399297/3fbb9e1c-7239-4b25-8c1e-fbec1f375a27)
+
 
